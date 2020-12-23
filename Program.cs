@@ -27,7 +27,7 @@ namespace CustumerOrderViewer
                             customerOrderDetailModel.CustomerId,
                             customerOrderDetailModel.Description,
                             customerOrderDetailModel.Price,
-                            customerOrderDetailModel.ItemId
+                            customerOrderDetailModel.ItemId 
                             );
                     }
                 }
